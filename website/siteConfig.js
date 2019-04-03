@@ -90,7 +90,7 @@ const siteConfig = {
   cleanUrl: true,
 
   twitter: true,
- // twitterUsername: 'ThiagoH13709603',
+  twitterUsername: 'ThiagoH13709603',
   facebookComments: true,
   facebookAppId: true,
 
